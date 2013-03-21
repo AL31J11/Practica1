@@ -35,7 +35,7 @@ $(document).ready( function(e){
                   		break;
                   		case2:navigator.notification.vibrate(500);
                   		break;
-                  	}//switch"" beep,vibrar,cancelar");//function confirm
+                  	}//switch"" beep,vibrate,cancelar");//function confirm
                   },"practica1",
                  });//functionswipe
                   	}
